@@ -1,4 +1,4 @@
-module github.com/n0madic/twitter-scraper
+module github.com/oazeus/twbot
 
 go 1.13
 
